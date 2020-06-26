@@ -2,3 +2,7 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: aquamarine;
 }
+
+li.active a {
+    text-decoration: none;
+}
